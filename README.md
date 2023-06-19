@@ -1,5 +1,5 @@
 # GreenhouseData
-by Fabián García-Vázquez, Jesús R. Ponce-González2 , Héctor A Guerrero-Osuna, Rocío Carrasco-Navarro, Luis F. Luque-Vega, Marcela E. Mata-Romero, Ma. del Rosario Martínez-Blanco, Celina Lizeth Castañeda-Miranda, Germán Díaz-Flórez.
+by Fabián García-Vázquez, Jesús R. Ponce-González , Héctor A Guerrero-Osuna, Rocío Carrasco-Navarro, Luis F. Luque-Vega, Marcela E. Mata-Romero, Ma. del Rosario Martínez-Blanco, Celina Lizeth Castañeda-Miranda, Germán Díaz-Flórez.
 
 ## Data acquisition
 A weather station collected the data from a greenhouse with a curved roof. This type of greenhouse is for traditional use with no climate control and has natural ventilation. The greenhouse has an area of 165m2, 27.5m long, 6m wide. This is located in South Mezquitera, Juchipila, Zacatecas, Mexico, with latitude and longitude (21.42624033959812, -103.10935313358475) and orientation 21°25'34.5"N 103°06'33.8"W.
