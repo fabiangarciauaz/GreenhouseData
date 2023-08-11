@@ -13,14 +13,16 @@ During data collection, tomatoes were grown from July 2019 to January 2020, and 
 ## Paper related
 Prediction of Internal Temperature in Greenhouses using the Supervised Learning Techniques: Linear and Support Vector Regressions
 
+Link to paper: https://www.mdpi.com/2076-3417/13/14/8531
+
 ## License and citation
 @article{analysis_of_regression_and_SVM_models,
     title={Prediction of Internal Temperature in Greenhouses using the Supervised Learning Techniques: Linear and Support Vector Regressions},
-    author={Autors names},
+    author={García-Vázquez, F.; Ponce-González, J.R.; Guerrero-Osuna, H.A.; Carrasco-Navarro, R.; Luque-Vega, L.F.; Mata-Romero, M.E.; Martínez-Blanco, M.d.R.; Castañeda-Miranda, C.L.; Díaz-Flórez, G},
     journal={Applied Sciences},
-    volume={Volume},
+    volume={13},
     number={1},
-    pages={0--0},
+    pages={8531},
     year={2023},
     publisher={MDPI}}
 
