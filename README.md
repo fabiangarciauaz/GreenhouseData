@@ -1,5 +1,5 @@
 # GreenhouseData
-by Fabián García-Vázquez, Jesús R. Ponce-González , Héctor A Guerrero-Osuna, Rocío Carrasco-Navarro, Luis F. Luque-Vega, Marcela E. Mata-Romero, Ma. del Rosario Martínez-Blanco, Celina Lizeth Castañeda-Miranda, Germán Díaz-Flórez.
+As part of a University Autonomous of Zacatecas initiative to promote the development of machine learning algorithms for more accurate modeling in agricultural greenhouses, data collection was conducted using a meteorological station installed within the greenhouses. The station recorded internal data (such as temperature, humidity, and dew point) and external data (such as temperature, humidity, and solar radiation).
 
 ## Data acquisition
 A weather station collected the data from a greenhouse with a curved roof. This type of greenhouse is for traditional use with no climate control and has natural ventilation. The greenhouse has an area of 165m2, 27.5m long, 6m wide. This is located in South Mezquitera, Juchipila, Zacatecas, Mexico, with latitude and longitude (21.42624033959812, -103.10935313358475) and orientation 21°25'34.5"N 103°06'33.8"W.
@@ -10,12 +10,11 @@ Data were collected from July 12, 2020, to June 24, 2021, with sampling at 5-min
 
 During data collection, tomatoes were grown from July 2019 to January 2020, and bell peppers from February 2020 until the end of the data.
 
-## Paper related
-Prediction of Internal Temperature in Greenhouses using the Supervised Learning Techniques: Linear and Support Vector Regressions
+## Paper related and citation
+1. Prediction of Internal Temperature in Greenhouses using the Supervised Learning Techniques: Linear and Support Vector Regressions
 
 Link to paper: https://www.mdpi.com/2076-3417/13/14/8531
 
-## License and citation
 @article{analysis_of_regression_and_SVM_models,
     title={Prediction of Internal Temperature in Greenhouses using the Supervised Learning Techniques: Linear and Support Vector Regressions},
     author={García-Vázquez, F.; Ponce-González, J.R.; Guerrero-Osuna, H.A.; Carrasco-Navarro, R.; Luque-Vega, L.F.; Mata-Romero, M.E.; Martínez-Blanco, M.d.R.; Castañeda-Miranda, C.L.; Díaz-Flórez, G},
@@ -23,6 +22,20 @@ Link to paper: https://www.mdpi.com/2076-3417/13/14/8531
     volume={13},
     number={1},
     pages={8531},
+    year={2023},
+    publisher={MDPI}}
+
+2. Long Short-Term Memory Recurrent Neural Network and Extreme Gradient Boosting Algorithms Applied in a Greenhouse’s Internal Temperature Prediction
+
+Link to paper: https://www.mdpi.com/2076-3417/13/22/12341
+
+@article{LSTM_and_XGBoost_models,
+    title={Long Short-Term Memory Recurrent Neural Network and Extreme Gradient Boosting Algorithms Applied in a Greenhouse’s Internal Temperature Prediction},
+    author={Esparza-Gómez, J. M.; Luque-Vega, L. F.; Guerrero-Osuna, H. A.; Carrasco-Navarro, R.; García-Vázquez, F.; Mata-Romero, M. E.; Olvera-Olvera, C. A.; Carlos-Mancilla, M. A.; Solís-Sánchez, L. O},
+    journal={Applied Sciences},
+    volume={13},
+    number={22},
+    pages={12341},
     year={2023},
     publisher={MDPI}}
 
